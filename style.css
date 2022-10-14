@@ -1,4 +1,16 @@
 h1{
-color: aqua;
+color:#4169E1;
 
+}
+
+body {
+
+
+background-color: #87CEEB;}
+
+.stro {
+
+width: 50%;
+border: solid 10px blue;
+margin-left: 25%;
 }
