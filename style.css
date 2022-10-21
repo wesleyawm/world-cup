@@ -1,13 +1,13 @@
 h1{
-color:#4169E1;
+color:blue;
 
 }
 
 body {
 
 
-background-color: #87CEEB;}
-
+background: linear-gradient(black, #87CEEB) 
+}   
 .stro {
 
 width: 50%;
